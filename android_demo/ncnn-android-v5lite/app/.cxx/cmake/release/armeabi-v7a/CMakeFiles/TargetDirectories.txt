@@ -1,3 +1,0 @@
-D:/Android-studio/ncnn-android-yolov5/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/ncnnv5lite.dir
-D:/Android-studio/ncnn-android-yolov5/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
-D:/Android-studio/ncnn-android-yolov5/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
