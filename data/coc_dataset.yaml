@@ -1,3 +1,9 @@
+# Use the following definitions to run training on Google Colab.
+# train: '/content/drive/MyDrive/Colab Notebooks/partial_dataset/images/train'
+# val: '/content/drive/MyDrive/Colab Notebooks/partial_dataset/images/validate'
+# test: '/content/drive/MyDrive/Colab Notebooks/partial_dataset/images/test'
+
+# Use the following definitions to run training locally.
 train: ../partial_dataset/images/train
 val: ../partial_dataset/images/validate
 test: ../partial_dataset/images/test
