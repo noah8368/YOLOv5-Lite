@@ -1,0 +1,9 @@
+train: ../../partial_dataset/images/train
+val: ../../partial_dataset/images/validate
+test: ../../partial_dataset/images/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ['elliptical', 'spiral']
