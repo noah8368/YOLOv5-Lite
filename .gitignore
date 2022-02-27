@@ -1,2 +1,3 @@
 # Directory that holds model weights.
 weights
+data/partial_dataset
